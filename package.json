@@ -1,0 +1,23 @@
+{
+  "name": "react-native-big-image-show",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuoJiKaiHehe/react-native-big-image-show.git"
+  },
+  "dependencies": {
+    "teaset": "^8.2.1",
+    "@react-native-community/cameraroll":"^1.6.0",
+    "react-native-fs":"^2.14.1"
+  },
+  "devDependencies": {
+  },
+  "keywords": [],
+  "author": "guojikai",
+  "license": "ISC"
+}
